@@ -103,3 +103,5 @@ impl_vec!(Vec4, x, y, z, w);
 // then 1 thing that implements all for a type and its names
 // impl ctor maybe. esp if all inner elements are same type
 // yo if you used this with vec4s as inner type would you get a matrix4x4?
+
+// also lol, IVec2 and stuff too yes?
